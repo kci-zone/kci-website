@@ -1,6 +1,7 @@
 ---
 title: This is a test post
 date: 2023-01-14T04:04:54.526Z
-description: This is an intro
+description: Oh look, a new static website built with the [Hugo
+  Framework](https://gohugo.io/)!
 ---
-This is paragraph text.
+Oh look, a new static website built with the [Hugo Framework](https://gohugo.io/)!
