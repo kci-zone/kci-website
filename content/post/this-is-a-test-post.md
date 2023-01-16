@@ -6,7 +6,7 @@ description: |+
 ---
 Current config:
 
-* This site is generated using the [Hugo framework](https://gohugo.io/), which generates a static HTML wesbite using the `Paper` theme.
+* This site is generated using the [Hugo framework](https://gohugo.io/), which generates a static HTML website using the `Paper` theme.
 
 
 * The generated code is then `git pushed` to a private Github repo.
